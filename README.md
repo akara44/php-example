@@ -12,7 +12,7 @@
 
 <h2 align="center"> Projeler </h2>
 
-| Sıra | Kaynak Kod                                                                                                                          | YouTube Bağlantı                                                                                                                      | Durum           |
+| Sıra | Kaynak Kod                                                                                                                          | Repo Bağlantısı                                                                                                                       | Durum           |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | `00` | **[Genişleyen Kartlar](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/01_Genisleyen_Kartlar)**                    | **[Animasyonlu Açılan Kartlar Nasıl Yapılır • 50 Gün 50 Proje -1](https://youtu.be/32sSSksKbCE)**                                     | `Tamamlandı`    |
 | `01` | **[İlerleme Adımları](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/02_Ilerleme_Adimlari)**                      | **[Animasyonlu İlerleme Adımları Nasıl Yapılır • 50 Gün 50 Proje -2](https://youtu.be/YhbVCjdjOO0)**                                  | `Tamamlandı`    |
