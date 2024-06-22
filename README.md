@@ -1,5 +1,5 @@
 <div align= "center">
-<img  src="https://skillicons.dev/icons?i=html" /> <img  src="https://skillicons.dev/icons?i=css" /> <img  src="https://skillicons.dev/icons?i=php" /> 
+<img  src="https://skillicons.dev/icons?i=php" /> <img  src="https://skillicons.dev/icons?i=html5" /> <img  src="https://skillicons.dev/icons?i=css3" /> 
 <h1>PHP EXAMPLES</h1>
 </div>
 
