@@ -1,20 +1,14 @@
 <div align= "center">
 <img  src="https://skillicons.dev/icons?i=html" /> <img  src="https://skillicons.dev/icons?i=css" /> <img  src="https://skillicons.dev/icons?i=php" /> 
-<h1>50 Gün 50 Proje</h1>
+<h1>PHP EXAMPLES</h1>
 </div>
 
 <hr/>
 
 - <b> İçerik: </b>
-  - Bu repository tamamen proje bazlıdır ve özellikle yeni başlayanlar için temel projeler içermektedir. Toplamda 50 mini proje, HTML, CSS ve JavaScript ile ilgilidir. İlgili projelerin kaynak kodlarına ve YouTube video bağlantılarına, aşağıdaki "Projeler" tablosunu üzerinden rahatlıkla ulaşabilirsiniz.
+  - Bu repository tamamen proje bazlıdır ve özellikle yeni başlayanlar için temel projeler içermektedir.Projelerin bulunduğu klasörlere aşağıdaki "Projeler" tablosundan  rahatlıkla ulaşabilirsiniz.
 - <b> Düzen: </b>
-  - Projeler klasör klasör toplanmış olup Projeler kısmında ilgili proje üzerine gelip kaynak kodlarına ve videolar için YouTube bağlantılarına tıklayarak ulaşabilirsiniz.
-
-<hr/>
-
-- ###### Brad Traversy ve Florin Pop'un eğitmenliğini yaptığı "50 Projects In 50 Days - HTML, CSS & JavaScript" kursunun kendi çalışma filtrelerimden geçirilmiş hali sunulmuştur.
-
-<hr/>
+  - Projeler klasör klasör toplanmış olup Projeler kısmında ilgili proje üzerine gelip kaynak kodlarınaulaşabilirsiniz.
 
 <h2 align="center"> Projeler </h2>
 
